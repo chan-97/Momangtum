@@ -44,5 +44,5 @@ h4 {
 }
 
 .js-toDoList {
-    text-decoration: none;
+    list-style : none;
 }
